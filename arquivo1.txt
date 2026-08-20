@@ -1,2 +1,3 @@
 o resumo da aula:
 vimos sobre o git comit, ultilizado pra não lenbro oque, o cara trava na explicção e por a maneira do computador dele, ser diferente do nosso, ele diz algo que passa no computador dele, sendo difrente da meneira exposta para nois.
+mas entendi que o commit serve como comando de açaõ no texto, tipo um comentario, e o git push vem como um atualizador do projeto de acordo com as mudanças
